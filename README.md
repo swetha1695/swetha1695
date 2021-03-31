@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Swetha
 - 👀 I’m interested in Python, Data Science and ML
 - 🌱 I’m currently learning Angular front-end framework
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at swethashankar16@gmail.com
 
 <!---
